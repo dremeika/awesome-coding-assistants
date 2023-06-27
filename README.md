@@ -13,8 +13,10 @@ A curated list of coding assistants and related resources.
  - [Cody AI by Sourcegraph](https://sourcegraph.com/cody)
  - [Copilot by GitHub](https://github.com/features/copilot)
  - [Copilot X by GitHub](https://github.com/features/preview/copilot-x) (preview)
+ - [Cursor](https://www.cursor.so/)
  - [FauxPilot](https://github.com/fauxpilot/fauxpilot) (self-hosted)
  - [Ghostwriter by Replit](https://replit.com/site/ghostwriter)
+ - [Safurai](https://www.safurai.com/)
  - [Tabnine](https://www.tabnine.com/)
 
 ### Assistant Chatbots
@@ -24,8 +26,11 @@ A curated list of coding assistants and related resources.
 
 ### LLMs for Code
 
- - [CodeGen by Salesforce](https://github.com/salesforce/CodeGen)
- - [CodeT5](https://github.com/salesforce/CodeT5)
+ - [CodeGen](https://github.com/salesforce/CodeGen)
+ - [CodeT5+](https://github.com/salesforce/CodeT5) ([blog](https://blog.salesforceairesearch.com/codet5-open-code-large-language-models/))
+ - [Codex](https://openai.com/blog/openai-codex)
+ - [ReplitLM](https://github.com/replit/replitLM)
+ - [StarCoder](https://huggingface.co/bigcode/starcoder)
 
 ### Scientific Papers
 
