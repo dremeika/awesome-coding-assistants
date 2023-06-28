@@ -17,6 +17,7 @@ A curated list of coding assistants and related resources.
  - [FauxPilot](https://github.com/fauxpilot/fauxpilot) (self-hosted)
  - [Ghostwriter by Replit](https://replit.com/site/ghostwriter)
  - [Safurai](https://www.safurai.com/)
+ - [Tabby](https://tabbyml.github.io/tabby/) (self-hosted)
  - [Tabnine](https://www.tabnine.com/)
 
 ### Assistant Chatbots
@@ -31,6 +32,12 @@ A curated list of coding assistants and related resources.
  - [Codex](https://openai.com/blog/openai-codex)
  - [ReplitLM](https://github.com/replit/replitLM)
  - [StarCoder](https://huggingface.co/bigcode/starcoder)
+
+### Articles & Podcasts
+
+ - 2023-06-16 [An explosion in software engineers using AI coding tools?](https://blog.pragmaticengineer.com/ai-coding-tools-explosion/)
+ - 2023-05-25 [Debugging the Internet with AI agents – with Itamar Friedman of Codium AI and AutoGPT](https://www.latent.space/p/codium-agents)
+ - 2023-05-16 [Github Copilot and ChatGPT alternatives](https://blog.pragmaticengineer.com/github-copilot-alternatives/)
 
 ### Scientific Papers
 
