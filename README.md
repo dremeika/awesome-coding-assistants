@@ -4,6 +4,7 @@ A curated list of coding assistants and related resources.
 
 ### IDEs & Extensions
 
+ - [Bito](https://bito.ai/)
  - [CodeComplete](https://codecomplete.ai/) (self-hosted, private beta)
  - [Codeium](https://codeium.com/)
  - [CodeGeeX](https://codegeex.cn/)
@@ -35,7 +36,8 @@ A curated list of coding assistants and related resources.
  - [StarCoder](https://huggingface.co/bigcode/starcoder)
 
 ### Articles & Podcasts
-
+ 
+ - 2023-06-27 [The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) ([research](https://github.blog/wp-content/uploads/2023/06/Sea-Change-in-Software-Dev.pdf))
  - 2023-06-16 [An explosion in software engineers using AI coding tools?](https://blog.pragmaticengineer.com/ai-coding-tools-explosion/)
  - 2023-05-25 [Debugging the Internet with AI agents – with Itamar Friedman of Codium AI and AutoGPT](https://www.latent.space/p/codium-agents)
  - 2023-05-16 [Github Copilot and ChatGPT alternatives](https://blog.pragmaticengineer.com/github-copilot-alternatives/)
@@ -44,5 +46,6 @@ A curated list of coding assistants and related resources.
 ### Scientific Papers
 
  - 2023-05-03 [CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309)
+ - 2023-02-13 [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot](https://arxiv.org/abs/2302.06590)
  - 2022-07-05 [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://github.com/salesforce/CodeRL)  
  - 2022-03-25 [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
