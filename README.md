@@ -27,6 +27,7 @@ A curated list of coding assistants and related resources.
 
  - [Codeium Chat](https://codeium.com/chat)
  - [Copilot X by GitHub](https://github.com/features/preview/copilot-x) (preview)
+ - [Phind](https://www.phind.com/)
  - [Refact](https://refact.ai/)
 
 ### LLMs for Code
