@@ -19,6 +19,7 @@ A curated list of coding assistants and related resources.
  - [Safurai](https://www.safurai.com/)
  - [Tabby](https://tabbyml.github.io/tabby/) (self-hosted)
  - [Tabnine](https://www.tabnine.com/)
+ - [TurboPilot](https://github.com/ravenscroftj/turbopilot) (self-hosted)
 
 ### Assistant Chatbots
 
