@@ -34,6 +34,7 @@ A curated list of coding assistants and related resources.
  - [Codex](https://openai.com/blog/openai-codex)
  - [ReplitLM](https://github.com/replit/replitLM)
  - [StarCoder](https://huggingface.co/bigcode/starcoder)
+ - [WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)
 
 ### Articles & Podcasts
  
