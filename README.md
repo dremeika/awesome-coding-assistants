@@ -38,6 +38,7 @@ A curated list of coding assistants and related resources.
  - 2023-06-16 [An explosion in software engineers using AI coding tools?](https://blog.pragmaticengineer.com/ai-coding-tools-explosion/)
  - 2023-05-25 [Debugging the Internet with AI agents – with Itamar Friedman of Codium AI and AutoGPT](https://www.latent.space/p/codium-agents)
  - 2023-05-16 [Github Copilot and ChatGPT alternatives](https://blog.pragmaticengineer.com/github-copilot-alternatives/)
+ - 2023-04-13 [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 
 ### Scientific Papers
 
