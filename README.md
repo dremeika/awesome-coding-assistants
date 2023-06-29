@@ -19,6 +19,7 @@ A curated list of coding assistants and related resources.
  - [Ghostwriter by Replit](https://replit.com/site/ghostwriter)
  - [Refact](https://refact.ai/)
  - [Safurai](https://www.safurai.com/)
+ - [Supercharger](https://github.com/catid/supercharger) (self-hosted)
  - [Tabby](https://tabbyml.github.io/tabby/) (self-hosted)
  - [Tabnine](https://www.tabnine.com/)
  - [TurboPilot](https://github.com/ravenscroftj/turbopilot) (self-hosted)
@@ -51,5 +52,6 @@ A curated list of coding assistants and related resources.
 
  - 2023-05-03 [CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309)
  - 2023-02-13 [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot](https://arxiv.org/abs/2302.06590)
- - 2022-07-05 [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://github.com/salesforce/CodeRL)  
+ - 2022-07-05 [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://github.com/salesforce/CodeRL)
+ - 2022-05-13 [Productivity Assessment of Neural Code Completion](https://arxiv.org/abs/2205.06537)
  - 2022-03-25 [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
