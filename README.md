@@ -9,6 +9,7 @@ A curated list of coding assistants and related resources.
  - [CodeComplete](https://codecomplete.ai/) (self-hosted, private beta)
  - [Codeium](https://codeium.com/)
  - [CodeGeeX](https://codegeex.cn/)
+ - [CodeGPT](https://codegpt.co/)
  - [CodeWhisperer by Amazon](https://aws.amazon.com/codewhisperer/)
  - [Code Suggestions by GitLab](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) (beta)
  - [CodiumAI](https://www.codium.ai/)
@@ -47,6 +48,8 @@ A curated list of coding assistants and related resources.
  - 2023-06-27 [The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) ([research](https://github.blog/wp-content/uploads/2023/06/Sea-Change-in-Software-Dev.pdf))
  - 2023-06-16 [An explosion in software engineers using AI coding tools?](https://blog.pragmaticengineer.com/ai-coding-tools-explosion/)
  - 2023-05-25 [Debugging the Internet with AI agents – with Itamar Friedman of Codium AI and AutoGPT](https://www.latent.space/p/codium-agents)
+ - 2023-05-17 [How GitHub Copilot is getting better at understanding your code](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/)
+ - 2023-05-17 [Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
  - 2023-05-16 [Github Copilot and ChatGPT alternatives](https://blog.pragmaticengineer.com/github-copilot-alternatives/)
  - 2023-04-13 [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 
