@@ -14,6 +14,7 @@ A curated list of coding assistants and related resources.
  - [Cody AI by Sourcegraph](https://sourcegraph.com/cody)
  - [Copilot by GitHub](https://github.com/features/copilot)
  - [Copilot X by GitHub](https://github.com/features/preview/copilot-x) (preview)
+ - [Cosy (Alibaba Cloud AI Coding Assistant)](https://github.com/alibaba-cloud-toolkit/cosy)
  - [Cursor](https://www.cursor.so/)
  - [FauxPilot](https://github.com/fauxpilot/fauxpilot) (self-hosted)
  - [Ghostwriter by Replit](https://replit.com/site/ghostwriter)
