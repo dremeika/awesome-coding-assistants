@@ -30,10 +30,12 @@ A curated list of coding assistants and related resources.
 
 ### Assistant Chatbots
 
+ - [Aider](https://github.com/paul-gauthier/aider)
  - [Codeium Chat](https://codeium.com/chat)
  - [Copilot X by GitHub](https://github.com/features/preview/copilot-x) (preview)
  - [Phind](https://www.phind.com/)
  - [Refact](https://refact.ai/)
+ - [Studio Bot for Android Studio](https://developer.android.com/studio/preview/studio-bot) (preview)
 
 ### LLMs for Code
 
