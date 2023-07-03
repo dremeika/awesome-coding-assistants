@@ -4,6 +4,7 @@ A curated list of coding assistants and related resources.
 
 ### IDEs & Extensions
 
+ - [AskCodi](https://www.askcodi.com/)
  - [Bito](https://bito.ai/)
  - [BLACKBOX AI](https://www.useblackbox.io/)
  - [CodeComplete](https://codecomplete.ai/) (self-hosted, private beta)
