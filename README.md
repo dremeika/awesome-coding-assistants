@@ -58,6 +58,7 @@ A curated list of coding assistants and related resources.
 
 ### Scientific Papers
 
+ - 2023-06-20 [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
  - 2023-05-03 [CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309)
  - 2023-02-13 [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot](https://arxiv.org/abs/2302.06590)
  - 2022-07-05 [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://github.com/salesforce/CodeRL)
