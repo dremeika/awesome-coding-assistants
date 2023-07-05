@@ -21,6 +21,7 @@ A curated list of coding assistants and related resources.
  - [Cursor](https://www.cursor.so/)
  - [FauxPilot](https://github.com/fauxpilot/fauxpilot) (self-hosted)
  - [Ghostwriter by Replit](https://replit.com/site/ghostwriter)
+ - [MutableAI](https://mutable.ai/)
  - [Refact](https://refact.ai/)
  - [Safurai](https://www.safurai.com/)
  - [Supercharger](https://github.com/catid/supercharger) (self-hosted)
