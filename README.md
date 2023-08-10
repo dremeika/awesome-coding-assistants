@@ -34,6 +34,7 @@ A curated list of coding assistants and related resources.
  - [Aider](https://github.com/paul-gauthier/aider)
  - [Codeium Chat](https://codeium.com/chat)
  - [Copilot X by GitHub](https://github.com/features/preview/copilot-x) (preview)
+ - [Mentat](https://www.mentat.codes/) (CLI)
  - [Phind](https://www.phind.com/)
  - [Refact](https://refact.ai/)
  - [Studio Bot for Android Studio](https://developer.android.com/studio/preview/studio-bot) (preview)
