@@ -12,6 +12,7 @@ A curated list of coding assistants and related resources.
  - [CodeGeeX](https://codegeex.cn/)
  - [CodeGPT](https://codegpt.co/)
  - [CodeWhisperer by Amazon](https://aws.amazon.com/codewhisperer/)
+ - [Code Fundi](https://www.codefundi.app/)
  - [Code Suggestions by GitLab](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) (beta)
  - [CodiumAI](https://www.codium.ai/)
  - [Cody AI by Sourcegraph](https://sourcegraph.com/cody)
