@@ -51,6 +51,8 @@ A curated list of coding assistants and related resources.
 
 ### Articles & Podcasts
  
+ - 2023-08-25 [Llama 2 learns to code](https://huggingface.co/blog/codellama)
+ - 2023-08-22 [Cursor.so: The AI-first Code Editor](https://www.latent.space/p/cursor)
  - 2023-06-27 [The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/) ([research](https://github.blog/wp-content/uploads/2023/06/Sea-Change-in-Software-Dev.pdf))
  - 2023-06-16 [An explosion in software engineers using AI coding tools?](https://blog.pragmaticengineer.com/ai-coding-tools-explosion/)
  - 2023-05-25 [Debugging the Internet with AI agents – with Itamar Friedman of Codium AI and AutoGPT](https://www.latent.space/p/codium-agents)
