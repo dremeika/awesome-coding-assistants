@@ -39,6 +39,7 @@ A curated list of coding assistants and related resources.
  - [Phind](https://www.phind.com/)
  - [Refact](https://refact.ai/)
  - [Studio Bot for Android Studio](https://developer.android.com/studio/preview/studio-bot) (preview)
+ - [Warp](https://www.warp.dev/) (CLI)
 
 ### LLMs for Code
 
