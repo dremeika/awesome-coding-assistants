@@ -35,6 +35,7 @@ A curated list of coding assistants and related resources.
  - [Aider](https://github.com/paul-gauthier/aider)
  - [Codeium Chat](https://codeium.com/chat)
  - [Copilot X by GitHub](https://github.com/features/preview/copilot-x) (preview)
+ - [Ellipsis](https://www.ellipsis.dev/) (PR Assistant)
  - [Mentat](https://www.mentat.codes/) (CLI)
  - [Phind](https://www.phind.com/)
  - [Refact](https://refact.ai/)
