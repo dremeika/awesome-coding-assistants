@@ -1,6 +1,6 @@
 # Awesome Coding Assistants [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of coding assistants and related resources. 
+A curated list of coding assistants and related resources.
 
 ### IDEs & Extensions
 
@@ -16,6 +16,7 @@ A curated list of coding assistants and related resources.
  - [Code Suggestions by GitLab](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) (beta)
  - [CodiumAI](https://www.codium.ai/)
  - [Cody AI by Sourcegraph](https://sourcegraph.com/cody)
+ - [Continue](https://continue.dev/)
  - [Copilot by GitHub](https://github.com/features/copilot)
  - [Copilot X by GitHub](https://github.com/features/preview/copilot-x) (preview)
  - [Cosy (Alibaba Cloud AI Coding Assistant)](https://github.com/alibaba-cloud-toolkit/cosy)
